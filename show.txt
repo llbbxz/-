@@ -1,0 +1,10 @@
+1.概念：
+git status
+（1）工作区  h511
+git add .
+（2）缓存区  .git/index
+git commit -m "commit show.txt"
+（3）版本库  .git
+
+
+远程仓库：github上的项目地址
